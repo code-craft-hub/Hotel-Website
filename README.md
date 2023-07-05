@@ -1,3 +1,6 @@
+"Transforming hospitality through innovative web design and captivating user experiences that elevate your hotel's online presence."
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
