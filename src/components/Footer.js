@@ -6,7 +6,7 @@ const Footer = () => {
     <div className='container mx-auto text-white flex justify-between'>
       {/* Logo */}
       <img src={LogoWhite} alt="" />
-      Copyright &copy; 2023. All rights reserved <b className='text-accent'> KACHI </b>.
+      <p className="bg-black">Copyright &copy; 2023. All rights reserved <b className='text-black'> KACHI </b>.</p>
     </div>
   </footer>;
 };
